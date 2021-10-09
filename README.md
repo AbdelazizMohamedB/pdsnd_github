@@ -6,7 +6,7 @@
 ### Project Title
 Bikes share Data explorer
 ### Description
-iteratively explore data based on predifined questions.
+The basic purpose of Bikes share Data explorer is  to answer the most frequent quesions.
 
 ### Files used
 chicago.csv
